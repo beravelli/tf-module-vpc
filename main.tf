@@ -1,4 +1,4 @@
-# VPC module — creates a VPC with public and private subnets
+# VPC module v1.0.1 — creates a VPC with public and private subnets
 # Uses terraform-aws-modules/vpc/aws under the hood.
 
 terraform {
